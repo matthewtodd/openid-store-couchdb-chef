@@ -1,0 +1,5 @@
+= openid-store-couchdb-chef
+
+A Chef-specific[http://wiki.opscode.com/display/chef] OpenID store for CouchDB.
+
+Extracted from skillet[http://github.com/matthewtodd/skillet], my attempt to run a Chef server on Heroku[http://heroku.com].
